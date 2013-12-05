@@ -1,0 +1,21 @@
+{
+  "name": "wpsAvalon",
+  "version": "1.0.0",
+  "authors": [
+    "vincent <vincentliangws@gmail.com>"
+  ],
+  "description": "avalon file",
+  "main": "avalon.js",
+  "keywords": [
+    "wps"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
